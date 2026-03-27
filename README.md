@@ -1,38 +1,66 @@
-# Srinivas P
+# 👨‍💻 YATHIN G
 
-## 👋 About Me
-Hello! I'm a passionate developer who enjoys learning new technologies, building projects, and improving problem-solving skills.
+## 🚀 Developer | Lifelong Learner | Problem Solver
+
+Welcome to my GitHub!  
+I enjoy building projects, exploring new technologies, and continuously improving my problem-solving skills.
 
 ---
 
-## 🚀 Skills
+## 🧠 About Me
+
+- 💡 Curious and passionate about technology  
+- 🛠️ Love building and experimenting with projects  
+- 📈 Focused on growth and consistency  
+- 🌱 Always learning something new  
+
+---
+
+## ⚡ Tech Stack
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
-<img src="https://skillicons.dev/icons?i=c" height="50"/>
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-
+  <img src="https://skillicons.dev/icons?i=python" height="45"/>
+  <img src="https://skillicons.dev/icons?i=c" height="45"/>
+  <img src="https://skillicons.dev/icons?i=git" height="45"/>
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </p>
 
 ---
 
-## 📚 Currently Learning
-- Full Stack Development
-- Backend Concepts
-- Open Source Contribution
+## 📚 Currently Exploring
+
+- 🌐 Full Stack Development  
+- ⚙️ Backend Systems & APIs  
+- 🤝 Open Source Contributions  
 
 ---
 
-## 🛠️ Tools
-VS Code • Git • GitHub • Supabase
+## 🛠️ Tools & Platforms
+
+`VS Code` • `Git` • `GitHub` • `Supabase`
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srinivas2s&show_icons=true)
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srinivas2s&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ Always learning, always building.
+## 🎯 Goals
+
+- 🚀 Build impactful real-world projects  
+- 🧑‍💻 Contribute to open source  
+- 📚 Master backend and system design  
+
+---
+
+## ✨ Motto
+
+> “Code. Learn. Build. Repeat.”
+
+---
+
+⭐ *Thanks for visiting my profile!*
