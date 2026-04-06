@@ -9,7 +9,7 @@
 <br>
 
 <!-- Portfolio Link Banner -->
-<a href="https://your-portfolio-url.com">
+<a href="https://yathin.engineer/">
   <img src="https://img.shields.io/badge/Explore_My_Live_Portfolio-0A0A0A?style=for-the-badge&logo=astro&logoColor=f97316&border=f97316" alt="Live Portfolio" />
 </a>
 
