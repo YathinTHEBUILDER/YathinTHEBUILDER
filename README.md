@@ -3,15 +3,15 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=YATHIN&fontSize=90&fontColor=f97316&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20AI%20Builder&descSize=22&descAlignY=62&animation=fadeIn" />
 
-<!-- Dynamic Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=800&height=60&lines=Building+the+Future%2C+One+Line+Of+Code+At+a+Time;Designing+Intelligent+Systems+%F0%9F%A7%A0;Building+Next-Gen+AI+Assistants+%F0%9F%A4%96;Turning+Ideas+into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- Dynamic Typing Effect — NO emoji in lines (breaks SVG render) -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&multiline=false&width=750&height=55&lines=Building+the+Future%2C+One+Line+Of+Code+At+a+Time;Designing+Intelligent+Systems;Building+Next-Gen+AI+Assistants;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://your-portfolio-url.com">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%90_Explore_My_Live_Portfolio-f97316?style=for-the-badge&logoColor=white" alt="Live Portfolio" />
+<a href="https://yathin.engineer">
+  <img src="https://img.shields.io/badge/Explore_My_Live_Portfolio-f97316?style=for-the-badge&logo=astro&logoColor=white" alt="Live Portfolio" />
 </a>
-
+&nbsp;
 <img src="https://komarev.com/ghpvc/?username=YathinTHEBUILDER&label=Profile+Views&color=f97316&style=for-the-badge" alt="Profile Views" />
 
 </div>
@@ -28,7 +28,7 @@ class Yathin:
     college    = "Vidyavardhaka College of Engineering, Mysuru"
     focus      = ["Large Language Models", "Computer Vision", "AI Assistants"]
     philosophy = "While others study technology, I am actively building it."
-    
+
     def current_mission(self):
         return "Merging classic software engineering with bleeding-edge AI"
 ```
@@ -87,7 +87,7 @@ class Yathin:
       <img src="https://img.shields.io/badge/Groq_API-0a0a0a?style=for-the-badge&logoColor=f97316" />
       <br/><br/>
       <a href="https://github.com/YathinTHEBUILDER/J.A.R.V.I.S_Stable">
-        <img src="https://img.shields.io/badge/ACCESS_SYSTEM-%E2%86%92-f97316?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/ACCESS_SYSTEM-f97316?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
     <td width="50%" valign="top" align="center">
@@ -101,7 +101,7 @@ class Yathin:
       <img src="https://img.shields.io/badge/Gemini_API-0a0a0a?style=for-the-badge&logo=google&logoColor=f97316" />
       <br/><br/>
       <a href="https://github.com/YathinTHEBUILDER/F.R.I.D.A.Y_Stable">
-        <img src="https://img.shields.io/badge/ACCESS_SYSTEM-%E2%86%92-f97316?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/ACCESS_SYSTEM-f97316?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
@@ -113,19 +113,20 @@ class Yathin:
 
 <div align="center">
 
-<!-- GitHub Trophies - FIXED URL -->
-<img src="https://github-profile-trophy.vercel.app/?username=YathinTHEBUILDER&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
+<!-- Trophies: removed column=7 (fails when fewer trophies earned), auto-fits instead -->
+<img src="https://github-profile-trophy.vercel.app/?username=YathinTHEBUILDER&theme=radical&no-frame=true&no-bg=true&margin-w=12&margin-h=12" alt="GitHub Trophies" />
 
 <br/><br/>
 
-<!-- GitHub Stats - FIXED with cache buster and correct params -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YathinTHEBUILDER&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=f97316&text_color=cccccc&icon_color=f97316&border_radius=12&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YathinTHEBUILDER&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=f97316&text_color=cccccc&border_radius=12&langs_count=8" alt="Top Languages" />
+<!-- Stats + Top Langs: cache_seconds=86400 bypasses the public instance rate-limit -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YathinTHEBUILDER&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=f97316&text_color=cccccc&icon_color=f97316&border_radius=12&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YathinTHEBUILDER&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=f97316&text_color=cccccc&border_radius=12&langs_count=8&cache_seconds=86400" alt="Top Languages" />
 
 <br/><br/>
 
-<!-- Streak Stats - FIXED URL using git.io mirror -->
-<img src="https://streak-stats.demolab.com?user=YathinTHEBUILDER&theme=dark&hide_border=true&background=0D0D0D&ring=f97316&fire=f97316&currStreakLabel=f97316&border_radius=12" alt="GitHub Streak" />
+<!-- Streak stats -->
+<img src="https://streak-stats.demolab.com?user=YathinTHEBUILDER&theme=dark&hide_border=true&background=0D0D0D&ring=f97316&fire=f97316&currStreakLabel=f97316&sideLabels=cccccc&border_radius=12" alt="GitHub Streak" />
 
 <br/><br/>
 
@@ -139,17 +140,17 @@ class Yathin:
 ## 🎯 Current Focus
 
 ```
-🔬 Researching    →  Multimodal AI Systems & Real-Time Voice Agents
-🛠️ Building       →  F.R.I.D.A.Y v2.0 with enhanced Computer Vision
-📚 Learning       →  Advanced RAG Architectures & Agent Frameworks  
-🚀 Goal           →  Deploy production-grade AI systems at scale
+Researching  ->  Multimodal AI Systems & Real-Time Voice Agents
+Building     ->  F.R.I.D.A.Y v2.0 with enhanced Computer Vision
+Learning     ->  Advanced RAG Architectures & Agent Frameworks
+Goal         ->  Deploy production-grade AI systems at scale
 ```
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let's+Build+The+Future+Together&fontSize=24&fontColor=f97316&fontAlignY=65&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=Let%27s+Build+The+Future+Together&fontSize=26&fontColor=f97316&fontAlignY=65&animation=fadeIn" />
 
 <br/>
 
